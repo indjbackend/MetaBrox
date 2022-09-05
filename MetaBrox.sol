@@ -1,9 +1,4 @@
 // SPDX-License-Identifier: MIT
-// File: @openzeppelin/contracts@4.5.0/utils/Counters.sol
-
-
-// OpenZeppelin Contracts v4.4.1 (utils/Counters.sol)
-
 pragma solidity ^0.8.0;
 
 /**
